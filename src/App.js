@@ -105,6 +105,7 @@ export default function App() {
             <li
               style={{
                 listStyle: "none",
+                cursor: "pointer",
                 fontSize: "1.5rem",
                 display: "inline-block",
                 marginRight: "0.5rem",
