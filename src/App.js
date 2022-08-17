@@ -28,7 +28,7 @@ var foods = {
     {
       name: "Khichu",
       image:
-        "https://www.gujarattourism.com/content/gujrattourism/en/gujarati-cuisines/dabeli/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757321361/shutterstock-1111938869-min.jpeg",
+        "https://www.gujarattourism.com/content/gujrattourism/en/gujarati-cuisines/khichu/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757315169/khichu-banner.jpeg",
       description:
         "A thick porridge-like mixture made from rice flour and seasoned with cumin seeds and green chilli, khichu is served with a splash of groundnut oil and cayenne pepper.The dough can also be used to make rice papads! ",
       rating: "3"
@@ -36,7 +36,7 @@ var foods = {
     {
       name: "Dabeli",
       image:
-        "https://www.gujarattourism.com/content/gujrattourism/en/gujarati-cuisines/khichu/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757315169/khichu-banner.jpeg",
+        "https://www.gujarattourism.com/content/gujrattourism/en/gujarati-cuisines/dabeli/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757321361/shutterstock-1111938869-min.jpeg",
       description:
         "This Kutchi cousin of the Mumbaiya vada pav is made by mixing mashed boiled potatoes with a special masala, and encasing the mixture in a ladi pav. The Kutchi Dabeli is garnished with pomegranate pearls and roasted peanuts.",
       rating: "4"
